@@ -30,7 +30,7 @@ body{
     display: flex;
     justify-content: left;
     gap: 5px;
-    width: 650px;
+    width: 350px;
     padding: 10px;
     margin-left: 10px;
     
@@ -111,6 +111,16 @@ body{
         text-align: center;
         
     
+    }
+    .todoDiv{
+        display: flex;
+        justify-content: left;
+        gap: 5px;
+        width: 650px;
+        padding: 10px;
+        margin-left: 50px;
+        
+        background-color: antiquewhite;
     }
 
 }
